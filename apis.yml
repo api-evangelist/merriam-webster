@@ -1,0 +1,32 @@
+aid: merriam-webster
+name: Merriam-Webster
+description: "Dictionary and Thesaurus Data"
+url: https://dictionaryapi.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Dictionaries"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Dictionaries
+  - Public APIs
+apis:
+  - name: Merriam-Webster
+    description: "Dictionary and Thesaurus Data"
+    humanURL: https://dictionaryapi.com/
+    baseURL: https://dictionaryapi.com/
+    tags:
+      - Dictionaries
+    properties:
+      - type: Documentation
+        url: https://dictionaryapi.com/
+common:
+  - type: Website
+    url: https://dictionaryapi.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
