@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://dictionaryapi.com/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/merriam-webster-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/merriam-webster-domain-security.yml
   - type: Website
     url: https://dictionaryapi.com/
   - type: PublicAPIsListing
