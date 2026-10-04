@@ -39,7 +39,6 @@ apis:
   - name: Merriam-Webster
     description: "Dictionary and Thesaurus Data"
     humanURL: https://dictionaryapi.com/
-    baseURL: https://dictionaryapi.com/
     tags:
       - Dictionaries
     properties:
